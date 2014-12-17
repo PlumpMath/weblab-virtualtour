@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<language version="2.1">
+
+	<message
+		showHomePano		= "Iniciar Visita Panorámica..."
+		rotationStart		= "Iniciar Rotación..."
+		rotationStop		= "Detener Rotación..."
+		slideshowStart		= "Iniciar Presentación"
+		slideshowStop		= "Detener Diapositivas..."
+		soundStart			= "Iniciar Música..."
+		soundStop			= "Silenciar Música..."
+		googleShow			= "Ver en Mapa Google..."
+		googleHide			= "Cerrar Mapa Google..."
+		groundplanShow		= "Mostrar Planos de Planta..."
+		groundplanHide		= "Cerrar Planos de Planta..."
+		weatherShow			= "Mostrar el Tiempo..."
+		weatherHide			= "Cerrar el Tiempo..."
+		weatherUnavailable	= "Tiempo no Disponible..."
+		sitemapShow			= "Ver Mapa del Sitio..."
+		sitemapHide			= "Cerrar Mapa del Sitio..."
+		helpShow			= "Mostrar Ayuda..."
+		helpHide			= "Cerrar Ayuda..."
+		stopVideo			= "Detener Video..."
+	/>
+	<error
+		fatal				= "La Visita Virtual de 360° no se pudo cargar. Por favor, asegúrese de que esta conectado a Internet y vuelva a intentarlo. Si esto le sucede con frecuencia, póngase en contacto con el administrador."
+		fullscreen			= "Por Favor salir de Pantalla Completa"
+	/>
+	<days
+		now					= "Ahora"
+		today				= "Hoy"
+		monday				= "Lunes"
+		tuesday				= "Martes"
+		wednesday			= "Miércoles"
+		thursday			= "Jueves"
+		friday				= "Viernes"
+		saturday			= "Sábado"
+		sunday				= "Domingo"
+	/>
+	<email
+		subject				= "Enviar Visita Virtual de 360° al Contacto"
+		body				= "Hola"
+	/>
+	<interface
+		back				= "retroceder"
+		disclaimer			= "Las Fotos y Las Descripciones son sólo un esquema"
+	/>
+	<help
+		toggle				= "Menú Abrir / Cerrar"
+		fullscreen			= "Normal Pantalla Completa"
+		home				= "Iniciar Tour"
+		slideshow			= "Vista Diapositivas Inicio/Detener"
+		sound				= "Sonido Encendido / Apagado"
+		rotation			= "Rotación Panorámica Inicio /Detener"
+		groundplan			= "Plano de Planta de la Panorámica Actual Mostrar-/Cerrar"
+		map					= "Mapa-Google Mostrar-/Cerrar"
+		weather				= "Previsión del Tiempo Mostrar-/Cerrar"
+		sitemap				= "Mapa del Sitio Mostrar-/Cerrar"
+		email				= "Enviar E-mail"
+		info				= "Contacto Mostar/Cerrar"
+		facebook			= "Perfil Facebook"
+		twitter				= "Perfil Twitter"
+		rss					= "RSS"
+		book				= "Book hotel or Room"
+		other				= "En el menú principal puede navegar por las Imágenes en minuatura. Al hacer clic en una imagen, se cargará una nueva Panorámica."
+	/>
+	<privacy
+		name				= "Declaración de Privacidad"
+		text				= "Esta web utiliza las tecnologías de etracker Gmbh(www.etracker.com). Los datos recolectados serán utilizados sólo para fines analíticos, y no para identificar y crear un perfil de uso de los visitantes."
+		disable				= "Desactivar Rastreador"
+	/>
+	<explanation_click
+		caption				= "Control of the panorama"
+		move				= "Panorama rotation:hold left mouse button and move the mouse."
+		zoom				= "Panorama zoom:Scroll the mouse wheel to zoom in or out."
+	/>
+	<explanation_touch
+		caption				= "Control of the panorama"
+		move				= "Panorama rotation:Tap on the screen and rotate left or right."
+		zoom				= "Panorama zoom:To actually zoom- thumb and index finger to move from/into each other."
+	/>
+
+</language>
