@@ -1,117 +1,115 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<language version="2.1.8">
+{
 
-	<message
-		home				= "加载全景模式"
-		rotation_on			= "开始旋转"
-		rotation_off		= "停止旋转"
-		slideshow_on		= "开始幻灯片"
-		slideshow_off		= "停止幻灯片"
-		sound_on			= "正在播放音乐"
-		sound_off			= "音乐暂停"
-		map_on				= "正在显示谷歌地图"
-		map_off				= "正在隐藏谷歌地图"
-		groundplan_on		= "正在显示楼层平面图"
-		groundplan_off		= "正在隐藏楼层平面图"
-		groundplaninfo_on	= "正在显示信息"
-		groundplaninfo_off	= "正在隐藏信息"
-		weather_on			= "正在显示天气"
-		weather_off			= "正在隐藏天气"
-		sitemap_on			= "正在显示站点地图"
-		sitemap_off			= "正在隐藏站点地图"
-		help_on				= "正在显示帮助"
-		help_off			= "隐藏帮助"
-		guidedtour_on		= "开始游览"
-		guidedtour_off		= "停止游览"
-	/>
-	<message_hover
-		home				= "加载全景模式"
-		home_online			= "显示官方网站"
-		rotation_on			= "启动全景旋转模式"
-		rotation_off		= "停止全景旋转模式"
-		slideshow_on		= "开始幻灯片"
-		slideshow_off		= "停止幻灯片"
-		sound_on			= "播放音乐"
-		sound_off			= "停止音乐"
-		map_on				= "显示谷歌地图"
-		map_off				= "隐藏谷歌地图"
-		groundplan_on		= "显示楼层平面图"
-		groundplan_off		= "隐藏楼层平面图"
-		groundplaninfo_on	= "显示信息"
-		groundplaninfo_off	= "隐藏信息"
-		weather_on			= "显示天气"
-		weather_off			= "隐藏天气"
-		sitemap_on			= "显示站点地图"
-		sitemap_off			= "隐藏站点地图"
-		help_on				= "显示帮助"
-		help_off			= "隐藏帮助"
-		toggle				= "隐藏菜单"
-		fullscreen_on		= "启动全屏模式"
-		fullscreen_off		= "停止全屏模式"
-		facebook			= "打开Facebook档案"
-		twitter				= "打开Twitter档案"
-		book				= "预定"
-		guidedtour_on		= "开始游览"
-		guidedtour_off		= "停止游览"
-	/>
-	<error
-		fatal				= "360°虚拟游览无法从服务器加载。请确保您已连接互联网后重试。如果仍无法连接，请联系浏览器供应商。"
-		fullscreen			= "请退出全屏模式"
-		stopVideo			= "请停止视频"
-		weatherUnavailable	= "暂无气象数据"
-	/>
-	<days
-		now					= "现在"
-		today				= "今天"
-		monday				= "星期一"
-		tuesday				= "星期二"
-		wednesday			= "星期三"
-		thursday			= "星期四"
-		friday				= "星期五"
-		saturday			= "星期六"
-		sunday				= "星期天"
-	/>
-	<email
-		subject				= "通过虚拟360度全景游览发送信息请求"
-		body				= "你好"
-	/>
-	<interface
-		back				= "退后"
-		disclaimer			= "插图和描述以实物为准"
-	/>
-	<help
-		toggle				= "显示/隐藏菜单"
-		fullscreen			= "正常或全屏模式"
-		home				= "重新启动虚拟360游览"
-		slideshow			= "开始、停止全景幻灯片"
-		sound				= "开始/暂停音乐"
-		rotation			= "开始/停止全景旋转"
-		groundplan			= "显示/隐藏当前楼层全景平面图"
-		map					= "显示/隐藏谷歌地图"
-		weather				= "显示/隐藏天气预报"
-		sitemap				= "显示/隐藏站点地图"
-		email				= "发送电子邮件"
-		info				= "显示/隐藏联系表"
-		facebook			= "显示Facebook档案"
-		twitter				= "显示Twitter档案"
-		rss					= "显示RSS-订阅"
-		book				= "预订酒店设施或客房"
-		other				= "在主菜单中，您可以在不同的区域之间进行浏览或选择前一张照片。 点击预览图片后将会加载一个新的全景。"
-	/>
-	<privacy
-		name				= "隐私政策"
-		text				= "本网站使用的 etracker GmbH技术 (www.etracker.com) 来收集和存储的数据进行分析的目的。 收集到的数据将不会被用来识别或创建网站访问者的用户配置文件。"
-		disable				= "关闭跟踪"
-	/>
-	<explanation_click
-		caption				= "全景控制"
-		move				= "全景旋转:按住鼠标左键并移动鼠标"
-		zoom				= "全景缩放:滚动鼠标滚轮来放大和缩小"
-	/>
-	<explanation_touch
-		caption				= "全景控制"
-		move				= "全景旋转:在屏幕上点击， 旋转左边或右边"
-		zoom				= "全景缩放:用拇指和食指来放大和缩小"
-	/>
-
-</language>
+    "message": {
+      "home": "加载全景模式",
+      "rotation_on": "开始旋转",
+      "rotation_off": "停止旋转",
+      "slideshow_on": "开始幻灯片",
+      "slideshow_off": "停止幻灯片",
+      "sound_on": "正在播放音乐",
+      "sound_off": "音乐暂停",
+      "map_on": "正在显示谷歌地图",
+      "map_off": "正在隐藏谷歌地图",
+      "groundplan_on": "正在显示楼层平面图",
+      "groundplan_off": "正在隐藏楼层平面图",
+      "groundplaninfo_on": "正在显示信息",
+      "groundplaninfo_off": "正在隐藏信息",
+      "weather_on": "正在显示天气",
+      "weather_off": "正在隐藏天气",
+      "sitemap_on": "正在显示站点地图",
+      "sitemap_off": "正在隐藏站点地图",
+      "help_on": "正在显示帮助",
+      "help_off": "隐藏帮助",
+      "guidedtour_on": "开始游览",
+      "guidedtour_off": "停止游览"
+    },
+    "message_hover": {
+      "home": "加载全景模式",
+      "home_online": "显示官方网站",
+      "rotation_on": "启动全景旋转模式",
+      "rotation_off": "停止全景旋转模式",
+      "slideshow_on": "开始幻灯片",
+      "slideshow_off": "停止幻灯片",
+      "sound_on": "播放音乐",
+      "sound_off": "停止音乐",
+      "map_on": "显示谷歌地图",
+      "map_off": "隐藏谷歌地图",
+      "groundplan_on": "显示楼层平面图",
+      "groundplan_off": "隐藏楼层平面图",
+      "groundplaninfo_on": "显示信息",
+      "groundplaninfo_off": "隐藏信息",
+      "weather_on": "显示天气",
+      "weather_off": "隐藏天气",
+      "sitemap_on": "显示站点地图",
+      "sitemap_off": "隐藏站点地图",
+      "help_on": "显示帮助",
+      "help_off": "隐藏帮助",
+      "toggle": "隐藏菜单",
+      "fullscreen_on": "启动全屏模式",
+      "fullscreen_off": "停止全屏模式",
+      "facebook": "打开Facebook档案",
+      "twitter": "打开Twitter档案",
+      "book": "预定",
+      "guidedtour_on": "开始游览",
+      "guidedtour_off": "停止游览"
+    },
+    "error": {
+      "fatal": "360°虚拟游览无法从服务器加载。请确保您已连接互联网后重试。如果仍无法连接，请联系浏览器供应商。",
+      "fullscreen": "请退出全屏模式",
+      "stopVideo": "请停止视频",
+      "weatherUnavailable": "暂无气象数据"
+    },
+    "days": {
+      "now": "现在",
+      "today": "今天",
+      "monday": "星期一",
+      "tuesday": "星期二",
+      "wednesday": "星期三",
+      "thursday": "星期四",
+      "friday": "星期五",
+      "saturday": "星期六",
+      "sunday": "星期天"
+    },
+    "email": {
+      "subject": "通过虚拟360度全景游览发送信息请求",
+      "body": "你好"
+    },
+    "interface": {
+      "back": "退后",
+      "disclaimer": "插图和描述以实物为准"
+    },
+    "help": {
+      "toggle": "显示/隐藏菜单",
+      "fullscreen": "正常或全屏模式",
+      "home": "重新启动虚拟360游览",
+      "slideshow": "开始、停止全景幻灯片",
+      "sound": "开始/暂停音乐",
+      "rotation": "开始/停止全景旋转",
+      "groundplan": "显示/隐藏当前楼层全景平面图",
+      "map": "显示/隐藏谷歌地图",
+      "weather": "显示/隐藏天气预报",
+      "sitemap": "显示/隐藏站点地图",
+      "email": "发送电子邮件",
+      "info": "显示/隐藏联系表",
+      "facebook": "显示Facebook档案",
+      "twitter": "显示Twitter档案",
+      "rss": "显示RSS-订阅",
+      "book": "预订酒店设施或客房",
+      "other": "在主菜单中，您可以在不同的区域之间进行浏览或选择前一张照片。 点击预览图片后将会加载一个新的全景。"
+    },
+    "privacy": {
+      "name": "隐私政策",
+      "text": "本网站使用的 etracker GmbH技术 (www.etracker.com) 来收集和存储的数据进行分析的目的。 收集到的数据将不会被用来识别或创建网站访问者的用户配置文件。",
+      "disable": "关闭跟踪"
+    },
+    "explanation_click": {
+      "caption": "全景控制",
+      "move": "全景旋转:按住鼠标左键并移动鼠标",
+      "zoom": "全景缩放:滚动鼠标滚轮来放大和缩小"
+    },
+    "explanation_touch": {
+      "caption": "全景控制",
+      "move": "全景旋转:在屏幕上点击， 旋转左边或右边",
+      "zoom": "全景缩放:用拇指和食指来放大和缩小"
+  }
+}
