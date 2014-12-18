@@ -107,12 +107,12 @@
     },
     "explanation_click": {
       "caption": "Control of the panorama",
-      "move": "Panorama rotation:Hold left mouse button and move the mouse.",
-      "zoom": "Panorama zoom:Scroll the mouse wheel to zoom in or out."
+      "move": "Panorama rotation: Hold left mouse button and move the mouse.",
+      "zoom": "Panorama zoom: Scroll the mouse wheel to zoom in or out."
     },
     "explanation_touch": {
       "caption": "Control of the panorama",
-      "move": "Panorama rotation:Tap on the screen and rotate left or right.",
-      "zoom": "Panorama zoom::Use thumb and forefinger to zoom in and zoom out."
+      "move": "Panorama rotation: Tap on the screen and rotate left or right.",
+      "zoom": "Panorama zoom: Use thumb and forefinger to zoom in and zoom out."
   }
 }
